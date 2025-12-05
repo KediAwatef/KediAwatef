@@ -3,9 +3,9 @@
 I'm Awatef, a new grad software developer.
 
 I’m focused on full-stack development with a backend emphasis,
-actively exploring DevOps practices to understand how systems are built and maintained.
+actively exploring DevOps practices to understand how systems are built, managed, and maintained.
 
-I also have a keen interest in ERP systems, I am curious about how they integrate complex business processes and support decision-making across organizations.
+I also have a keen interest in system and database administration, as well as system design, and I am curious about how complex systems integrate business processes and support decision-making across organizations.
 
 I learn quickly, and improve my technical skills through hands-on projects.
 
