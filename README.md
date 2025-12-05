@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there ! I'm Awatef 
 
-I'm Awatef, a new grad software developer.
+A new grad software developer.
 
 I’m focused on full-stack development with a backend emphasis,
 actively exploring DevOps practices to understand how systems are built, managed, and maintained.
