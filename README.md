@@ -3,7 +3,7 @@
 A new grad software developer.
 
 I’m focused on full-stack development with a backend emphasis,
-actively exploring DevOps practices to understand how systems are built, managed, and maintained.
+actively exploring low-level systems to understand how systems are built, managed, and maintained.
 
 I also have a keen interest in system and database administration, as well as system design, and I am curious about how complex systems integrate business processes and support decision-making across organizations.
 
