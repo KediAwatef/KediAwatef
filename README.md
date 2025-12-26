@@ -2,7 +2,7 @@
 
 ##  About Me:
 
-I am a recent grad with a bachelor's degree in CS, passionate about exploring the realms of coding, automation, and building robust apps.
+I am a recent grad with a bachelor's degree in CS, passionate about navigating the field of coding, automation, and building robust apps.
 
 ## What I'm Up To
 
