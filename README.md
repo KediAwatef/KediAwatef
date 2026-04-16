@@ -6,6 +6,7 @@ I am a Software Developer and a Consultant, passionate about the field of automo
 ## What I'm Up To
 
 -  Diving into the  [SAP](https://www.sap.com/) MM as a Consultant with a big client in the automotive field at @Capgemini 
+-  Currently pursuing an Engineer's degree in SWE
 -  Turning midnight ideas into useful apps
 
 
