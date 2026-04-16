@@ -2,12 +2,12 @@
 
 ##  About Me:
 
-I am a recent grad with a bachelor's degree in CS, passionate about navigating the field of coding, automation, and building robust apps.
-
+I am a Software Developer and a Consultant, passionate about the field of automotive & building robust apps.
 ## What I'm Up To
 
--  Exploring DevOps with [kubernetes](https://kubernetes.io/)
+-  Diving into the  [SAP](https://www.sap.com/) MM as a Consultant with a big client in the automotive field at @Capgemini 
 -  Turning midnight ideas into useful apps
+
 
 <!-- Check out my [portfolio](https://gazijarin.com/) !
 
